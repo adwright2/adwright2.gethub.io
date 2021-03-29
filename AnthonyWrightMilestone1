@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>NBA Baskebtall Breakdown (Milestone 1)</title>
+</head>
+<body>
+<p> An analysis and rundown of NBA basketball teams and players</p>
+<h2>The NBA teams with the best records</h2>
+  <ol type="1">
+    <li>Utah Jazz</li>
+    <li>Pheonix Suns</li>
+    <li>Philadelphia 76ers</li>
+    <li>Brooklyn Nets</li>
+    <li>Los Angeles Lakers</li>
+    <li>Milwuakee Bucks</li>
+  </ol>
+  <p> All these teams have tremendous skill and play great team basketball.</P>
+<h3>My favorite NBA players</h3>
+  <ol type="1">
+    <li>Luka Doncic</li>
+    <li>Chris Paul</li>
+    <li>Kevin Durant</li>
+    <li>Zach Lavine</li>
+    <li>Anthony Edwards</li>
+    <li>James Harden</li>
+  </ol>
+<p> Keep up to date with everything going on in the NBA with <a href="https://www.espn.com/nba/">ESPN's NBA Homepage</a></p>
+
+</body>
+</html>
